@@ -91,6 +91,28 @@ p {
     color: #808080;
 }
 
+.button2 {
+    height: 55px;
+    border-radius: 30px;
+    background-color: coral;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px; 
+    background-size: 200px;
+}
+
+.button2:hover {
+    background-color: #ef744b;
+}
+
+.button2:active {
+    background-color: #A9A9A9;
+    color: #808080;
+}
+
 .socials {
     padding-bottom: 200px;
 }
@@ -99,6 +121,12 @@ p {
     height: 80px;
     margin: 30px;
 }
+
+.logo:hover {
+    background-color: #ef744b;
+}
+
+
 .social {
     margin: 20px;
 }
