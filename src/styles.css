@@ -31,7 +31,7 @@ ul {
     list-style-type: none;
     width: 500px;
     justify-content: space-around;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 li {
@@ -118,12 +118,13 @@ p {
 }
 
 .logo {
-    height: 80px;
-    margin: 30px;
+    height: 60px;
+    margin: 25px;
 }
 
 .logo:hover {
     background-color: #ef744b;
+    border-radius: 30px;
 }
 
 
